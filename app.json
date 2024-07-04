@@ -1,0 +1,8 @@
+{
+  "name": "AutoLotto",
+  "displayName": "AutoLotto",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-6970795657186211~5767609954",
+    "ios_app_id": "ca-app-pub-6970795657186211~4546328942"
+  }
+}
